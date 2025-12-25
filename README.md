@@ -16,4 +16,5 @@ It caches each result by username and falls back to cached data if Github is una
 
 1. Standard maven build - mvn clean install
 2. java -jar .\target\branch-demo-1.0-SNAPSHOT.jar
-3. curl http://localhost:8080/users/octocat   
+3. curl http://localhost:8080/users/octocat
+4. Swagger docs at http://localhost:8080/swagger-ui/index.html
